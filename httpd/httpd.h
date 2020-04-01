@@ -46,7 +46,7 @@
 #define CONF_FILE		"/etc/httpd.conf"
 #define HTTPD_SOCKET		"/var/run/httpd.sock"
 #define HTTPD_USER		"www"
-#define HTTPD_SERVERNAME	"OpenBSD httpd"
+#define HTTPD_SERVERNAME	""
 #define HTTPD_DOCROOT		"/htdocs"
 #define HTTPD_INDEX		"index.html"
 #define HTTPD_FCGI_SOCKET	"/run/slowcgi.sock"
